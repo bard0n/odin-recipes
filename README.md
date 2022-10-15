@@ -1,6 +1,8 @@
 # odin-recipes
 This project is being created to demonstrate the skills I have learned so far by creating a recipe website.
 
+So far learning and applying CSS has been the most difficult part for me but I think I have a decent understanding of it now after applying it for my own website.
+
 
 
 
